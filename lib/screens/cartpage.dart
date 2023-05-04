@@ -10,7 +10,7 @@ class cartpage extends StatefulWidget {
   State<cartpage> createState() => _cartpageState();
 }
 
-class _cartpageState extends State<cartpage> {it
+class _cartpageState extends State<cartpage> {
 
   void initState() {
     // TODO: implement initState
